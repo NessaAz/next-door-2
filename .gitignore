@@ -1,0 +1,4 @@
+hoodEnv/
+.env
+__pycache__
+*.pyc 
