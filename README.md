@@ -5,10 +5,10 @@ Nextdoor
 Vanessa Azenwa Shiundu
 
 ## Original creators
-Ivy Kabere
-Jeff Karumba
-Vanessa Azenwa Shiundu - Scrum Master
-Michelle Njeri
+* Ivy Kabere
+* Jeff Karumba
+* Vanessa Azenwa Shiundu - Scrum Master
+* Michelle Njeri
 
 ## Description
 This is a neighbourhood application to allow members to see information, news and updates about their hoods. They can also easily find where town amenities are and emergency contact i.e hospital
