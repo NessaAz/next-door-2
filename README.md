@@ -24,9 +24,9 @@ This is a neighbourhood application to allow members to see information, news an
 
 
 
-## Setup
-* 
-* 
+## Setucp
+
+
 
 
 ## Technologies Used
